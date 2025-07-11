@@ -96,11 +96,11 @@ Leia mais sobre a licença em: [https://creativecommons.org/licenses/by-nc-nd/4.
 
 ## 📬 Contatos
 
-**Leandro Augusto Leite Chaves Mo** 
+**Leandro Augusto Leite Chaves Mo**
 
 📧 leandrochaves.1@hotmail.com
 
-**Rodrigo Oliveira Vilalta** 
+**Rodrigo Oliveira Vilalta**
 
 📧 rodrigo.vilalta.0305@gmail.com  
 
