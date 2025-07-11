@@ -49,7 +49,7 @@ Fluxo resumido:
 
 ## 🖥️ Demonstrações e Imagens
 
-> 📄 [Apresentação Completa Pitch Talk em PDF](https://www.canva.com/design/DAGBIVKwHz0/-7eVF7sJizAyGELyxBg5Sg/view?utm_content=DAGBIVKwHz0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc9a4e5775)
+> 📄 [Apresentação Completa Pitch Talk](https://www.canva.com/design/DAGBIVKwHz0/-7eVF7sJizAyGELyxBg5Sg/view?utm_content=DAGBIVKwHz0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc9a4e5775)
 
 Imagens do sistema em operação:
 
