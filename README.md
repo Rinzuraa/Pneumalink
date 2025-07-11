@@ -54,6 +54,8 @@ Fluxo resumido:
 Imagens do sistema em operação:
 
 - 📊 Dashboard Industrial
+![- 📊 Dashboard Industrial](imagens/Dashboard em tempo real (Simulação).gif)
+
 - 📈 Gráficos de Tendência
 - 📡 Monitoramento Remoto
 
