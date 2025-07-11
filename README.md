@@ -56,8 +56,12 @@ Imagens do sistema em operação:
 - 📊 Dashboard em Tempo Real (Simulação)
 ![Dashboard em Tempo Real](imagens/dashboard.png)
 
+---
+
 - 📈 Gráficos de Tendência
 ![Gráficos de Tendência](imagens/Demonstração-dos-Dados-processados-em-tempo-real.gif)
+
+---
 
 - 📡 Monitoramento Remoto
 ![Monitoramento Remoto](imagens/Notificação-via-SMS.png)
