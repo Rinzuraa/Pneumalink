@@ -51,10 +51,12 @@ Fluxo resumido:
 
 > 📄 [Apresentação Completa Pitch Talk](https://www.canva.com/design/DAGBIVKwHz0/-7eVF7sJizAyGELyxBg5Sg/view?utm_content=DAGBIVKwHz0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc9a4e5775)
 
-Imagens do sistema em operação:
+### Imagens do sistema em operação:
 
 - 📊 Dashboard em Tempo Real (Simulação)
 ![Dashboard em Tempo Real](imagens/dashboard.png)
+![Dashboard em Tempo Real](imagens/Dashboard-em-tempo-real-Simulação.gif)
+
 
 - 📈 Gráficos de Tendência
 
@@ -63,6 +65,9 @@ Imagens do sistema em operação:
 - 📡 Monitoramento Remoto
 
 ![Monitoramento Remoto](imagens/Notificação-via-SMS.png)
+
+- 🗂️ Demonstração dos Dados processados em tempo real
+![Demonstração dos Dados processados em tempo real](imagens/Demonstração-dos-Dados-processados-em-tempo-real.gif)
 
 ---
 
