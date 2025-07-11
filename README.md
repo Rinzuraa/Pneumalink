@@ -58,7 +58,7 @@ Imagens do sistema em operação:
 
 - 📈 Gráficos de Tendência
 
-![Gráficos de Tendência](imagens/Demonstração-dos-Dados-processados-em-tempo-real.gif)
+![Gráficos de Tendência](imagens/relatório-com-tendências-e-anomalias-geradas-com-base-nos-dados-recebidos.png)
 
 - 📡 Monitoramento Remoto
 
