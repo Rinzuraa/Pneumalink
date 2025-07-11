@@ -7,7 +7,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **Pneumalink** é um protótipo de sistema de monitoramento industrial desenvolvido como parte do projeto de conclusão do curso de Tecnólogo em Mecatrônica Industrial. O projeto foi idealizado com o objetivo de oferecer uma solução acessível para pequenas e médias empresas, permitindo a supervisão eficiente de variáveis industriais críticas e a redução de downtime em linhas de produção.
+O **Pneumalink** é um protótipo de sistema de monitoramento industrial desenvolvido como parte do projeto de conclusão do curso de Tecnólogo em Mecatrônica Industrial. O projeto foi idealizado com o objetivo de oferecer uma solução acessível para pequenas e médias empresas, permitindo a supervisão eficiente de variáveis industriais e a redução de downtime em linhas de produção.
 
 Este repositório foi criado para apresentar publicamente a documentação e os conceitos do projeto, **não incluindo o código-fonte por questões de privacidade acadêmica e direitos autorais**.
 
@@ -20,29 +20,27 @@ Este repositório foi criado para apresentar publicamente a documentação e os 
 - **Previsão de falhas baseada em dados históricos via algoritmos de Machine Learning**.
 - **Notificações automáticas via SMS** utilizando a API Twilio.
 - **Relatórios e dashboards intuitivos** para tomada de decisão.
-- Integração com **CLPs via TIA Portal** e sistemas IoT com ESP32.
 
 ---
 
 ## ⚙️ Tecnologias e Ferramentas Utilizadas
 
-- **ESP32**
+- **ESP32 - Utilizando o Arduino IDE**
 - **MQTT (Wegnology)**
 - **Python (Machine Learning e Análise de Dados)**
 - **Twilio API para envio de notificações**
-- **Dashboards Web**
-- **Integração com CLPs Siemens (TIA Portal)**
+- **Dashboards Web (Wegnology)**
 
 ---
 
 ## 📊 Como Funciona
 
-O Pneumalink foi projetado para coletar dados de sensores industriais conectados a um ESP32, que envia as informações via MQTT para a nuvem (Wegnology). Os dados são processados por scripts Python responsáveis pela análise e detecção de padrões anômalos. Caso necessário, o sistema aciona notificações automáticas por SMS e atualiza dashboards de monitoramento.
+O Pneumalink foi projetado para coletar dados de sensores industriais conectados a um ESP32, que envia as informações do Arduino IDE via MQTT para a nuvem (Wegnology). Os dados são processados por scripts Python responsáveis pela análise e detecção de padrões anômalos, também atualiza os dashboards de monitoramento em tempo real. Caso necessário, o sistema aciona notificações automáticas por SMS.
 
 Fluxo resumido:
-1. Coleta de dados pelos sensores
+1. Coleta de dados pelos sensores das máquinas
 2. Processamento local no ESP32
-3. Envio de dados para a nuvem
+3. Envio de dados para a nuvem (Wegnology)
 4. Análise com IA em Python
 5. Emissão de alertas e exibição de relatórios
 6. Ação corretiva ou manutenção preventiva
@@ -89,7 +87,7 @@ Leia mais sobre a licença em: [https://creativecommons.org/licenses/by-nc-nd/4.
 
 ---
 
-## 📬 Contato
+## 📬 Contatos
 
 **Leandro Augusto Leite Chaves Mo**
 📧 leandrochaves.1@hotmail.com
