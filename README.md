@@ -56,7 +56,7 @@ Imagens do sistema em operação:
 - 📊 Dashboard Industrial
 
 - 📊 Dashboard em Tempo Real (Simulação)
-![Dashboard em Tempo Real](imagens/dashboard-tempo-real.gif)
+![Dashboard em Tempo Real](imagens/dashboard.png)
 
 
 - 📈 Gráficos de Tendência
