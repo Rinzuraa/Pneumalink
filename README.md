@@ -77,6 +77,7 @@ Fluxo resumido:
 - Desenvolvimento de dashboard proprietário sem dependência de terceiros.
 - Ampliação do envio de alertas via WhatsApp e Telegram.
 - Aprimoramento dos algoritmos de Machine Learning.
+- Integração com o CLP.
 - Integração completa com sistemas SCADA.
 
 ---
