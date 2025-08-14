@@ -26,7 +26,7 @@ Este repositório foi criado para apresentar publicamente a documentação e os 
 ## ⚙️ Tecnologias e Ferramentas Utilizadas
 
 - **ESP32**
-- **Arduino IDE | C++
+- **Arduino IDE | C++**
 - **MQTT (Wegnology)**
 - **Python (Machine Learning e Análise de Dados)**
 - **Twilio API para envio de notificações**
