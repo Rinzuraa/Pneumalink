@@ -29,7 +29,7 @@ Este repositório foi criado para apresentar publicamente a documentação e os 
 - **Arduino IDE | C++**
 - **MQTT (Wegnology)**
 - **Python (Machine Learning e Análise de Dados)**
-- **Twilio API para envio de notificações**
+- **API Twilio para envio de notificações**
 - **Dashboards Web (Wegnology)**
 
 ---
