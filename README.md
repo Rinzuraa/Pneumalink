@@ -25,7 +25,8 @@ Este repositório foi criado para apresentar publicamente a documentação e os 
 
 ## ⚙️ Tecnologias e Ferramentas Utilizadas
 
-- **ESP32 - Utilizando o Arduino IDE**
+- **ESP32**
+- **Arduino IDE | C++
 - **MQTT (Wegnology)**
 - **Python (Machine Learning e Análise de Dados)**
 - **Twilio API para envio de notificações**
@@ -35,7 +36,7 @@ Este repositório foi criado para apresentar publicamente a documentação e os 
 
 ## 📊 Como Funciona
 
-O Pneumalink foi projetado para coletar dados de sensores industriais conectados a um ESP32, que envia as informações do Arduino IDE via MQTT para a nuvem (Wegnology). Os dados são processados por scripts Python responsáveis pela análise e detecção de padrões anômalos, também atualiza os dashboards de monitoramento em tempo real. Caso necessário, o sistema aciona notificações automáticas por SMS.
+O Pneumalink foi projetado para coletar dados de sensores industriais conectados a um ESP32, que envia as informações do código do Arduino IDE via MQTT para a nuvem (Wegnology). Os dados são processados por scripts Python responsáveis pela análise e detecção de padrões anômalos, também atualiza os dashboards de monitoramento em tempo real. Caso necessário, o sistema aciona notificações automáticas por SMS.
 
 Fluxo resumido:
 1. Coleta de dados pelos sensores das máquinas
